@@ -1,0 +1,3 @@
+[submodule "refs/vein-lang"]
+	path = refs/vein-lang
+	url = https://github.com/vein-lang/vein.git
